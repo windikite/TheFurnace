@@ -1,0 +1,21 @@
+[
+{
+  "modid": "TheFurnace",
+  "name": "The Furnace",
+  "description": "Mining Overhaul",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Windikite"
+  ],
+  "credits": "OMG Pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
